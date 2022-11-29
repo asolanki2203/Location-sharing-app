@@ -36,10 +36,3 @@ If you face an error of *missing dependencies*, try running `flutter pub get`.
 - Location data for the user is updated in their respective firestore documents, and subsequently in the group documents.
 - Other devices sharing goups with the first user read that firebase firestore document and show the marker in the stored location.
 
-
-## Contributors
-  This app has been designed and developed by:
-  - [Pallav Pandey](https://github.com/pallavpp)
-  - [Anurag Singhal](https://github.com/Anu8690)
-  - [Aryan Rathee](https://github.com/aryanrathee)
-  - [Alokeveer Mondal](https://github.com/alokeveermondal)
