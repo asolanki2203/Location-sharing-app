@@ -5,7 +5,7 @@ It is built using Flutter with Firebase and Firestore to handle the authenticati
 
 
 ## Using the APK
-- The pre-built .apk file for the app can be downloaded [here](https://drive.google.com/file/d/11gRFkX5z8_vxo-lSKzv3d1zy6IYXc863/view?usp=sharing).
+- The pre-built .apk file for the app can be downloaded [here](https://drive.google.com/file/d/11gRFkX5z8_vxo-lSKzv3d1zy6IYXc863/view?usp=share_link).
 - Open the file in your android device. If prompted, open using `Google Drive` and then `Package Installer`.
 - Give necessary permissions to start the installation and start using the application.
 
